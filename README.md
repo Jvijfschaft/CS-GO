@@ -1,2 +1,2 @@
 # CS-GO
-config.cfg
+Configuración del Counter Strike. config.cfg
