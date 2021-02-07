@@ -1,0 +1,2 @@
+# CS-GO
+config.cfg
